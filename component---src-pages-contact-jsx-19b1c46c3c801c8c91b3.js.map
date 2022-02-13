@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://javatirtamaritim.co.id/./src/pages/contact.jsx"],"names":[],"mappings":"0JAQA,UANoB,WAClB,OACE","file":"component---src-pages-contact-jsx-19b1c46c3c801c8c91b3.js","sourcesContent":["import React from 'react'\n\nconst ContactPage = () => {\n  return (\n    <div>ContactPage</div>\n  )\n}\n\nexport default ContactPage"],"sourceRoot":""}

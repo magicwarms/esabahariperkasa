@@ -1,0 +1,2 @@
+(self.webpackChunkjavatirtamaritim_co_id=self.webpackChunkjavatirtamaritim_co_id||[]).push([[661],{1353:function(t,a,e){"use strict";e.r(a);var i=e(7294);a.default=function(){return i.createElement("div",null,"ContactPage")}}}]);
+//# sourceMappingURL=component---src-pages-contact-jsx-19b1c46c3c801c8c91b3.js.map
